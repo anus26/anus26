@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **anusraza268@gmail.com**
 
-- 📄 Know about my experiences (https://www.canva.com/design/DAGJ3wqHCxU/2DKYDScUBq_SxW2UOgpgOQ/view?utm_content=DAGJ3wqHCxU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+- 📄 Know about my experiences (https://www.canva.com/design/DAGwuvleuv0/5cPrXAW64wu9IcICC2vqYg/view?utm_content=DAGwuvleuv0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hef6636f4b1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
