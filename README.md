@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [product](https://anus26.github.io/products/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/anus26](https://portfolio-one-flame-52.vercel.app/)
+- 👨‍💻 All of my projects are available at (https://portfolio-one-flame-52.vercel.app/)
 
 - 💬 Ask me about **Javascript , React ,Typescript**
 
