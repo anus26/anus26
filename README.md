@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anus26" alt="anus26" /></a> </p>
 
-- 🔭 I’m currently working on [full stack bloggin app]((https://comment-react.vercel.app/))
+- 🔭 I’m currently working on [full stack bloggin app](https://comment-react.vercel.app/)
 
 - 🌱 I’m currently learning **React , Next.js ,React native**
 
