@@ -3,7 +3,7 @@
 <img src="https://img.freepik.com/free-photo/person-front-computer-working-html_23-2150040412.jpg" alt="free-photo">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anus26&label=Profile%20views&color=0e75b6&style=flat" alt="anus26" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anus26" alt="anus26" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anus26" alt="anus26" /></a> </p> -->
 
 - 🔭 I’m currently working on [full stack bloggin app](https://comment-react.vercel.app/)
 
