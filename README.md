@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **React , Next.js ,React native**
 
-- 👯 I’m looking to collaborate on [Todo app](https://todo-taupe-theta-30.vercel.app/)
+- 👯 I’m looking to Work on [Expense Tracker APP ](https://expense-tracker-app-azure-two.vercel.app/)
 
 - 🤝 I’m looking for help with [product](https://anus26.github.io/products/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/anus26](https://github.com/anus26)
+- 👨‍💻 All of my projects are available at [https://github.com/anus26](https://portfolio-one-flame-52.vercel.app/)
 
 - 💬 Ask me about **Javascript , React ,Typescript**
 
